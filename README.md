@@ -1,5 +1,9 @@
 # Hi, I'm Shoaib Hayat 👋
 
+[![Website](https://img.shields.io/badge/Website-raniaiservices.com-2563eb?style=flat-square)](https://raniaiservices.com)
+[![X](https://img.shields.io/badge/X-@imshoaibhayat-000000?style=flat-square&logo=x)](https://x.com/imshoaibhayat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rani_AI-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/company/raniai)
+
 Founder of **Rani AI Services** — I build high-performing websites, practical AI integrations, and business automation for small businesses. Based in Calgary, Alberta, serving clients across Canada.
 
 ## 🔧 What I do
