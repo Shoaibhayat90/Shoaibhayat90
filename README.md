@@ -1,3 +1,4 @@
+![Shoaib Hayat — Founder @ Rani AI Services](banner.png)
 # Hi, I'm Shoaib Hayat 👋
 
 
